@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shyamlalkp
-- 👀 I’m interested in front end web development
-- 🌱 Currently working on a react web application project
-- 💞️ I’m looking to collaborate on projects based on front end.
+- 👋 Hi, I’m Shyam, a mechanical engineering graduate from Kerala.
+- 👀 I’m on the track to get the onepiece of developers.
+- 💞️ I’m looking for a job to contribute on real time projects.
 - 📫 How to reach me shyamlal.prasanth@gmail.com
 
 <!---
